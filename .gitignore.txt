@@ -1,0 +1,11 @@
+# Ambiente virtual
+venv/
+.env
+
+# Compilados do Python
+__pycache__/
+*.pyc
+
+# Banco de dados local (Não suba seus dados de teste!)
+*.db
+*.sqlite3
